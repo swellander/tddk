@@ -1,0 +1,13 @@
+{
+  "name": "test_driven_katas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+      "test": "nodemon node_modules/mocha/bin/mocha"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
